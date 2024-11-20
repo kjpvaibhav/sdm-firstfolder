@@ -1,2 +1,3 @@
 Initial content of the file
 Changes made in dev2
+Changing content of the file in dev1
