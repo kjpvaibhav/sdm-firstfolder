@@ -1,1 +1,4 @@
 Initial content of the file in main
+Changes made in dev2
+Changing content of the file in dev1
+
